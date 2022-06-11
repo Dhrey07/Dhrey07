@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhrey07
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on as many Project as possible so as to transform the way the world works.
 - 📫 How to reach me https://www.linkedin.com/in/damilare-oyebamiji-679100198/
 
 <!---
