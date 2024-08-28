@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oyebamiji Damilare
 - 👀 I love developing webapps
-- 🌱 I’m a Frontend Engineering Intern
-- 💞️ I’m looking to collaborate on as many Project as possible so as to transform the way the world works.
+- 🌱 I’m a Jr Frontend Engineering
+- 💞️ I’m looking to collaborate on as many projects as possible to transform the way the world works.
 - 📫 How to reach me https://www.linkedin.com/in/damilare-oyebamiji-679100198/
 
 <!---
