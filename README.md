@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oyebamiji Damilare
-- 👀 I love developing webapps
+- 👀 I love developing applications
 - 🌱 I am a Software Engineer
 - 💞️ I’m looking to collaborate on as many projects as possible to transform the way the world works.
 - 📫 How to reach me https://www.linkedin.com/in/damilare-oyebamiji-679100198/
